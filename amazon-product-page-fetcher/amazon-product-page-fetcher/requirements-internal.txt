@@ -1,0 +1,3 @@
+git+https://gitlab.com/ods-middlewares/amazon-captcha-solver.git
+git+https://github.com/kkdevenda/scrapy-selenium.git
+git+https://gitlab.com/ods-middlewares/amazon-captcha-detector.git

@@ -1,0 +1,7 @@
+scrapy
+pika
+selenium
+requests
+pillow
+python-dotenv
+pyyaml
